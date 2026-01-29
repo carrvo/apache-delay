@@ -5,7 +5,7 @@ Delays apache2 startup.
 ## Diff
 
 ```diff
-> ExecStartPre=/usr/bin/sleep 2
++ ExecStartPre=/usr/bin/sleep 2
 ```
 
 ## License
