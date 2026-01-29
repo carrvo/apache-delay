@@ -1,0 +1,11 @@
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+debian/apache-delay.debhelper.log
+debian/apache-delay.postinst.debhelper
+debian/apache-delay.postrm.debhelper
+debian/apache-delay.prerm.debhelper
+debian/apache-delay.substvars
+debian/apache-delay/
+package/
+
